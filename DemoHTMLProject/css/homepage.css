@@ -1,0 +1,36 @@
+body
+   {
+          margin:0px;  font-family:Arial, Helvetica, sans-serif; 
+    background-size:cover;  sans-serif; background-image:url('https://content3.jdmagicbox.com/comp/jaipur/l8/0141px141.x141.180514165006.q1l8/catalogue/hob-house-of-biriyani-malviya-nagar-jaipur-restaurants-vtpi1xsust.jpg');
+    
+  }
+   .h-tag
+   {
+    text-align:left ; padding-left:20px;font-family: "Comic Sans MS", cursive; color: yellow;
+   }
+ .main-nav
+   {
+     font-family:"Comic Sans MS", cursive; align-items:
+    
+   }   
+
+ .main-nav li{
+ 	font-size: 20px;
+ 	padding-bottom: 20px;
+ }
+ 	
+ .main-nav li a{
+ 	display: block;
+ 	padding: 8px 16px;
+ 	width: 200px
+ 	background-color: red;
+ }
+ .main-nav li a:hover {
+  background-color: brown;
+  color: lightblue;
+  width:200px;
+}
+ 	
+
+
+ }

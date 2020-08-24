@@ -1,0 +1,33 @@
+body{
+  /*background-color: #FFA500;*/
+  background-color:brown;
+  
+}
+
+.h-tag
+   {
+    text-align:center ;font-family: Arial, Helvetica, sans-serif;
+   }
+  table
+   {
+     font-family:"Comic Sans MS", cursive;
+   } 
+ .tb
+  {
+    height:28px; width:230px; border:1px solid #27a465; color:#27a465; font-weight:bold; border-left:5px solid #f7f7f7; opacity:0.9;
+  }
+
+  .btn
+   {
+    width:80px; height:32px; outline:none;  font-weight:bold; border:0px solid #27a465; text-shadow: 0px 0.5px 0.5px #fff;	
+    border-radius: 2px; font-weight: 600; color: #27a465; letter-spacing: 1px; font-size:14px; -webkit-transition: 1s; -moz-transition: 1s; transition: 1s;
+   }
+  
+ .btn:hover
+   {
+    background-color:#27a465; outline:none;  border-radius: 2px; color:#f1f1f1; border:1px solid #f1f1f1;
+   }
+   a{
+  width:80px; height:32px; outline:none;  font-weight:bold; border:0px solid #27a465; text-shadow: 0px 0.5px 0.5px #fff;  
+    border-radius: 2px; font-weight: 600; color: #27a465; letter-spacing: 1px; font-size:14px; -webkit-transition: 1s; -moz-transition: 1s; transition: 1s;
+}

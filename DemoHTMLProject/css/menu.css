@@ -1,0 +1,49 @@
+body{
+	/*background-color: #FFA500;*/
+	background-color:brown;
+}
+	
+h1{
+	text-align: center;
+	font-size: 75px;
+	color: black;
+	font-family: "Comic Sans MS", cursive;
+}
+section{
+	text-align:center;
+}
+
+table{
+	align-content: center;
+	width: 100%;
+	height: 100%;
+}
+img{
+	width: 500px;
+	height: 200px;
+}
+img:hover{
+    box-shadow: 0 5px 5px 5px #cccccc;
+    
+}
+th{
+	font-size: 30px;
+}
+div{
+	align-items: center;text-align: center;
+}
+
+ 
+.btn
+   {
+    width:100px; height:32px; outline:none;  font-weight:bold; border:0px solid #27a465; text-shadow: 0px 0.5px 0.5px #fff;	
+    border-radius: 2px; font-weight: 600; color: #27a465; letter-spacing: 1px; font-size:14px; -webkit-transition: 1s; -moz-transition: 1s; transition: 1s;
+   }
+   .btn:hover
+   {
+    background-color:#27a465; outline:none;  border-radius: 2px; color:#f1f1f1; border:1px solid #f1f1f1;
+   }
+a{
+	width:80px; height:32px; outline:none;  font-weight:bold; border:0px solid #27a465; text-shadow: 0px 0.5px 0.5px #fff;	
+    border-radius: 2px; font-weight: 600; color: #27a465; letter-spacing: 1px; font-size:14px; -webkit-transition: 1s; -moz-transition: 1s; transition: 1s;
+}
